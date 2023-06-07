@@ -1,2 +1,4 @@
-package Demo;public class Vechilces {
+package Demo;
+
+public class Vechilces {
 }
